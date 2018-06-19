@@ -21,7 +21,7 @@ DLATK can utilize:
 
 ## Installation
 
-DLATK is available via 4 popular installation platforms: [docker](https://github.com/pennsignals/dlatk-docker), conda, pip or github:
+DLATK is available via any of four popular installation platforms: [docker](https://github.com/pennsignals/dlatk-docker), conda, pip or github:
 
 ### conda
 ```sh
