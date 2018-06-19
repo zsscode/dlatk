@@ -21,19 +21,28 @@ DLATK can utilize:
 
 ## Installation
 
-DLATK is available via [docker](https://github.com/pennsignals/dlatk-docker) or through conda, pip or github via:
+DLATK is available via 4 popular installation platforms: [docker](https://github.com/pennsignals/dlatk-docker), conda, pip or github:
 
+### conda
 ```sh
 conda install -c wwbp dlatk
 ```
 
+### pip
 ```sh
 pip install dlatk
 ```
 
+### GitHub
 ```sh
+git clone SEE_URL_ABOVE
+cd dlatk
 python setup.py install
 ```
+### New to installing Python packages?
+It's recommended you see the [full installation instructions](http://dlatk.wwbp.org/install.html#dependencies)
+which has more detailed instructions covering multiple operating systems. 
+
 
 ## Dependencies
 - [mysqlclient](https://github.com/PyMySQL/mysqlclient-python)
